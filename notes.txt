@@ -1,2 +1,4 @@
 hello
 second line
+this line is staged
+this line is not staged
